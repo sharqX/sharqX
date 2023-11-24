@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharique</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">just a computer nerd</h3>
 
 - 🌱 I’m currently learning **CI/CD**
 
@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@zarar_sharique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zarar_sharique" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shariquerahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shariquerahman" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/PFGd5NsjbE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PFGd5NsjbE" height="30" width="40" /></a>
 </p>
