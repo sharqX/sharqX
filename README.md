@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharique</h1>
 <h3 align="center">just a computer nerd</h3>
+<img align="right" alt="Charizard" width="400" src="https://i.pinimg.com/originals/c1/96/70/c196703d8852042c026fce79768fbeda.gif">
+
 
 - 🌱 I’m currently learning **CI/CD**
 
