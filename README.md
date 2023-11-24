@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm Sharique</h1>
 <h3 align="center">just a computer nerd</h3>
 <img align="right" alt="Charizard" width="400" src="https://i.pinimg.com/originals/c1/96/70/c196703d8852042c026fce79768fbeda.gif">
